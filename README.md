@@ -44,7 +44,7 @@ The primary source of this analysis is the [layoffs.csv](https://github.com/Step
 click 👉[here](https://github.com/StephenTheAnalyst/Data-Cleaning-SQL/blob/main/Data%20Cleaning%20in%20Sql.sql)👈 to go through the data analysis codes.
 
 ## Results/Finding
-In this project, i wasn't aiming at analizing the dataset, i was more concerned about practicing my data cleaning skills. 
+In this project, i wasn't aiming at analizing the dataset, i was more concerned about practicing my data cleaning skills. Click [Exploratory Data Analysis](https://github.com/StephenTheAnalyst/Pizzas-sales-SQL) to view my project on data exploration. 
 
 
 ### THANKS FOR FOLLOWING THROUGH ☺
